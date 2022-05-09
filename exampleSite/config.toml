@@ -8,6 +8,9 @@ disqusShortname = ""
 googleAnalytics = ""
 
 [params]
+  # Home Page Image
+  image = "img/Casual.png"
+
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "default"
